@@ -1,0 +1,36 @@
+.jumbotron,
+.project {
+    background-color: #b5b5fa;
+}
+
+.jumbotron {
+    padding-top: 8rem;
+}
+
+.jumbotron img {
+    cursor: pointer;
+}
+
+
+/* .jumbotron img:hover {}
+
+.jumbotron img:target {}
+
+@keyframes gambarFull {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+} */
+
+.about,
+.project,
+.contact {
+    padding-top: 4rem;
+}
+
+footer {
+    height: 80px;
+}
